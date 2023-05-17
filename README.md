@@ -1,2 +1,2 @@
 # MicrocontrollerEquipment
-Synchronized data acquisition using Arduino
+Device control using Arduino
